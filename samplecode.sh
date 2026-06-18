@@ -1,3 +1,3 @@
 echo "welcome to sample project"
 
-echo"this is my first projectt"
+echo"this is my first project activity"
